@@ -1,0 +1,5 @@
+Django==2.0.5
+pilkit==2.0
+Pillow==5.1.0
+requests==2.18.4
+requests-toolbelt==0.8.0
